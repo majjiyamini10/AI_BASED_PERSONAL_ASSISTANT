@@ -1,0 +1,16 @@
+streamlit>=1.40,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+scikit-learn>=1.5,<2
+requests>=2.32,<3
+python-dotenv>=1.0,<2
+librosa>=0.10,<1
+soundfile>=0.12,<1
+SpeechRecognition>=3.10,<4
+pyaudio>=0.2,<1
+pyttsx3>=2.90,<3
+gTTS>=2.5,<3
+google-genai>=1.0,<2
+langchain>=0.3,<2
+langchain-community>=0.3,<1
+
